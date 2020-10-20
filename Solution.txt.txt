@@ -1,0 +1,8 @@
+1.Kliknąłem na forka
+2.git clone https://github.com/bogumilbied/epg1_git
+3.Stworzyłem branch na github klikając na branche i create new.
+4.$ git checkout rebase-me
+  $ git rebase hw-s18921
+5.W aplikacji GitHub desktop zaznaczyłem mojego brancha i fast forward na rebase-me
+6.$ git checkout merge-me
+  $ git merge hw-s18921
